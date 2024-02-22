@@ -1,6 +1,6 @@
 ## Sobre a base de dados Startups2021.csv
 
-Esta base de dados foi obtida no site do Kaggle (```https://www.kaggle.com/datasets/ramjasmaurya/unicorn-startups```). A base de dados encontra-se no domínio público.
+Esta base de dados foi obtida no site do Kaggle [Unicorn Startups](https://www.kaggle.com/datasets/ramjasmaurya/unicorn-startups). A base de dados encontra-se no domínio público.
 
 Segundo os escritos do site, "Unicórnio" é um termo usado na indústria de capital de risco para descrever uma empresa startup de capital fechado com valor superior a US$ 1 bilhão. O termo foi popularizado pela primeira vez pela capitalista de risco Aileen Lee, fundadora da Cowboy Ventures, um fundo de capital de risco em estágio inicial com sede em Palo Alto, Califórnia.
 
